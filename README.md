@@ -1,6 +1,13 @@
 ## Quiz Anos 90 - A Forma Divertida de Relembrar
 
-- Utilizando HTML, CSS, Bootstrap e Javascript
+- Projeto criado para testar seus conhecimentos, e suas habilidades.
+- O Quiz possui 4 perguntas dos anos 90.
+- A cada acerto, a pontuação é contabilizada através de um placar animado.
+- Desenvolvido utilizando as tecnologias: 
+  - HTML 
+  - CSS
+  - Bootstrap
+  - Javascript
 
 ## Desktop
 
